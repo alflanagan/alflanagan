@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Fun fact: My first computer was a secondhand Radio Shack TRS-80, with 16K Level II BASIC.
+- ⚡ Language I most want to learn: [Rust](https://rust-lang.org)
+- ⚡ Course I'm actually taking: [Modern React with Redux](https://www.udemy.com/share/101WcYB0oYeVhaRH4=/) at [udemy](https://www.udemy.com).
