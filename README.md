@@ -1,4 +1,8 @@
-### Hi there 👋
+## A. Lloyd Flanagan
+
+Hey you can customize your github profile! Create a repo with the same name as your username, and customize the README.md file.
+
+Also see this [blog post](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme).
 
 <!--
 **alflanagan/alflanagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
