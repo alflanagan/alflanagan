@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Coursera course I'm taking now: [Machine Learning with Python (IBM)](https://www.coursera.org/learn/machine-learning-with-python/)
 
 - 😄 Pronouns: He/Him
+
+IMPORTANT NOTE: Due to misgivings I have about Microsoft's direction with GitHub, I've started moving my projects to
+[Gitlab](https://gitlab.com/alflanagan/) and creating a repository here as a read-only mirror.´
+For those projects, you'll need to submit issues, patches, etc. on Gitlab instead. (If that doesn't work for you,
+send [me](mail:lloyd.flanagan@pm.me) instead.)
