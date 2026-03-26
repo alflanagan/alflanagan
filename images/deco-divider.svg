@@ -1,0 +1,13 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="60" fill="transparent"/>
+
+  <!-- Horizontal line -->
+  <line x1="50" y1="30" x2="750" y2="30" stroke="#D4AF37" stroke-width="1"/>
+
+  <!-- Center ornament -->
+  <polygon points="400,20 410,30 400,40 390,30" fill="#D4AF37"/>
+
+  <!-- Side accents -->
+  <line x1="200" y1="30" x2="250" y2="30" stroke="#D4AF37"/>
+  <line x1="550" y1="30" x2="600" y2="30" stroke="#D4AF37"/>
+</svg>

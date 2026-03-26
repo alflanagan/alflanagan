@@ -1,5 +1,5 @@
 <!-- -*- fill-column: 80; -*- -->
-# A. Lloyd Flanagan
+# A. Lloyd Flanagan (He/Him)
 
 Hey you can customize your github profile! Create a repo with the same name as
 your username, and customize the README.md file.
@@ -12,8 +12,6 @@ Also see this [blog post](https://www.aboutmonica.com/blog/how-to-create-a-githu
 
 - ⚡ Coursera course I'm taking now: [Machine Learning with Python
   (IBM)](https://www.coursera.org/learn/machine-learning-with-python/)
-
-- 😄 Pronouns: He/Him
 
 ## IMPORTANT NOTE
 
