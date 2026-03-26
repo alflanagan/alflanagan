@@ -1,6 +1,8 @@
 <!-- -*- fill-column: 80; -*- -->
 # A. Lloyd Flanagan (He/Him)
 
+<img src="https://raw.githubusercontent.com/alflanagan/alflanagan/refs/heads/main/images/deco-divider.svg">
+
 Hey you can customize your github profile! Create a repo with the same name as
 your username, and customize the README.md file.
 
@@ -14,6 +16,8 @@ Also see this [blog post](https://www.aboutmonica.com/blog/how-to-create-a-githu
   (IBM)](https://www.coursera.org/learn/machine-learning-with-python/)
 
 ## IMPORTANT NOTE
+
+<img src="https://raw.githubusercontent.com/alflanagan/alflanagan/refs/heads/main/images/deco-divider-thin.svg">
 
 Due to misgivings I have about Microsoft's direction with GitHub, I've started
 moving my projects to [Gitlab](https://gitlab.com/alflanagan/) and creating a
