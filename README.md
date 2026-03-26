@@ -1,6 +1,8 @@
 <!-- -*- fill-column: 80; -*- -->
 <div style="border-bottom: none!important;">
+
 # A. Lloyd Flanagan (He/Him)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/alflanagan/alflanagan/refs/heads/main/images/deco-divider.svg">
