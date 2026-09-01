@@ -12,8 +12,7 @@ Also see this [blog post](https://www.aboutmonica.com/blog/how-to-create-a-githu
 
 - ⚡ Languages I've learned most recently: Rust, Go.
 
-- ⚡ Coursera course I'm taking now: [Machine Learning with Python
-  (IBM)](https://www.coursera.org/learn/machine-learning-with-python/)
+- ⚡ Coursera course I'm taking now: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
 ## IMPORTANT NOTE
 
